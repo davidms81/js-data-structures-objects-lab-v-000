@@ -1,5 +1,5 @@
 // Write your solution in this file!
-driver = {}
+const driver = {}
 
 updateDriverWithKeyAndValue(driver, key, value){
   const newDriver = {...driver}
